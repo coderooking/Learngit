@@ -9,4 +9,5 @@ Creating a new branch is quick and simple.
 My2023.08.04
 2023.08.07
 2023.08.28
+test git patch.
 /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/dev/sigmastarsdk/toolchain-sunxi-glibc/toolchain/bin
